@@ -1,0 +1,31 @@
+[submodule "repo/a4kSubtitles"]
+  path = repo/a4kSubtitles
+  url = https://github.com/a4k-openproject/a4kSubtitles.git
+
+[submodule "repo/skin.fentastic"]
+  path = repo/skin.fentastic
+  url = https://github.com/ivarbrandt/skin.fentastic
+
+[submodule "repo/script.fentastic.helper"]
+  path = repo/script.fentastic.helper
+  url = https://github.com/ivarbrandt/script.fentastic.helper
+
+[submodule "repo/plugin.program.autocompletion"]
+  path = repo/plugin.program.autocompletion
+  url = https://github.com/ivarbrandt/plugin.program.autocompletion
+
+[submodule "repo/script.nimbus.helper"]
+  path = repo/script.nimbus.helper
+  url = https://github.com/ivarbrandt/script.nimbus.helper.git
+
+[submodule "repo/skin.nimbus"]
+  path = repo/skin.nimbus
+  url = https://github.com/ivarbrandt/skin.nimbus.git
+
+[submodule "repo/skin.plugin.video.themoviedb.helper"]
+  path = repo/skin.plugin.video.themoviedb.helper
+  url = https://github.com/jurialmunkey/plugin.video.themoviedb.helper.git
+
+[submodule "repo/skin.arctic.fuse.2"]
+  path = repo/skin.arctic.fuse.2
+  url = https://github.com/jurialmunkey/skin.arctic.fuse.2.git
