@@ -25,6 +25,7 @@
 [submodule "repo/skin.plugin.video.themoviedb.helper"]
   path = repo/skin.plugin.video.themoviedb.helper
   url = https://github.com/jurialmunkey/plugin.video.themoviedb.helper.git
+  branch = nexus
 
 [submodule "repo/skin.arctic.fuse.2"]
   path = repo/skin.arctic.fuse.2
